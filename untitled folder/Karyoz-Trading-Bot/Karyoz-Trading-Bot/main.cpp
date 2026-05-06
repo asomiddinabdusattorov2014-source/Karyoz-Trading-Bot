@@ -10,5 +10,5 @@ int main() {
     std::cout << "Holat: Tizim toza va ishlashga tayyor." << std::endl;
     std::cout << "EUUUUUUUU! Kelajak bizniki!" << std::endl;
     
-    return 0;
+     return 0;
 }
